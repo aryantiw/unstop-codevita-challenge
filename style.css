@@ -1,0 +1,66 @@
+
+ body {
+    max-width: 800px;
+    margin: 0 auto;
+     
+    background-color: rgb(244, 242, 242);
+    padding-left: 2.5rem;
+  }
+  nav {
+    max-width: 2000px;
+    text-align: center;
+    border-radius: 1rem;
+    
+  }
+  nav a{
+    color: rgb(216, 70, 17);;
+    text-decoration: none;
+    font-size: 1.3em;
+    
+  }
+
+  .inline{
+
+    display: inline;
+    padding: 2rem;
+  }
+  
+
+img{
+ max-width:43rem;
+
+}
+  
+main{
+    padding-right: 2rem;
+}
+
+  p {
+    
+    font-size: 20px;
+  }
+
+label{
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+
+input{
+    width: 700px;
+    height: 40px;
+    margin: 1rem 0;
+    
+}
+
+button{
+    background-color: rgb(216, 70, 17);
+    border-radius: 20px;
+    color: aliceblue;
+    border: none;
+    padding: 1.2rem;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 1rem;
+    cursor: pointer;
+}
